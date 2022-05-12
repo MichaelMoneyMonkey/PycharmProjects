@@ -12,8 +12,9 @@ class Paddle(Turtle):
         self.shapesize(1, 5)
         self.left(90)
 
+
     def go_up(self):
-        self.forward(100)
+        self.forward(40)
 
     def go_down(self):
-        self.backward(100)
+        self.backward(40)

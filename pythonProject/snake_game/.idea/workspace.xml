@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65f61840-1258-459d-befb-469dddaced79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/pong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pong/paddle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class_inheritance_exercise/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_inheritance_exercise/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP exercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class_inheritance_exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../class_inheritance_exercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/paddle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
