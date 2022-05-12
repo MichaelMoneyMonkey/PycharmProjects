@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/class_inheritance_exercise.iml" filepath="$PROJECT_DIR$/.idea/class_inheritance_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop_coffee_machine_start.iml" filepath="$PROJECT_DIR$/.idea/oop_coffee_machine_start.iml" />
     </modules>
   </component>
 </project>
