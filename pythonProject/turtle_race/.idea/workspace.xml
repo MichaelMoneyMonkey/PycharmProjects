@@ -2,107 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf592b86-506f-496b-aed2-de06618b2fe0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../16_quiz/.idea/16_quiz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/.idea/19_line_drawer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_line_drawer/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Damien_Hirst_spot_painting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Damien_Hirst_spot_painting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP exercise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP exercise/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-16-start-import_python_package/.idea/day-16-start-import_python_package.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-16-start-import_python_package/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-16-start-import_python_package/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-17-create your own Class/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-17-create your own Class/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-17-create your own Class2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-17-create your own Class2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-18-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-18-start/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/.idea/oop_coffee_machine_start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop_coffee_machine_start/money_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../snake_game/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../snake_game/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../snake_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/.idea/17_quiz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/question_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_quiz/quiz_brain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class_inheritance_exercise/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class_inheritance_exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_inheritance_exercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class_inheritance_exercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_inheritance_exercise/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeMachine/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeMachine/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeMachine/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Damien_Hirst_spot_painting/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Damien_Hirst_spot_painting/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Damien_Hirst_spot_painting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Damien_Hirst_spot_painting/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Damien_Hirst_spot_painting/image.jpg.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP exercise/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP exercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-create your own Class/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-create your own Class/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-create your own Class/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-create your own Class/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-create your own Class/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-create your own Class2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-17-create your own Class2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-create your own Class2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-18-start/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-18-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-start/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-18-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-start/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-19/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-19/.idea/day-19.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-19/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-19/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-19/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-19/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-19/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/coffee_maker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/menu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/money_machine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/.idea/snake_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/.idea/snake_game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_2_ex/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_2_ex/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_2_ex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_2_ex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_2_ex/.idea/pong_2_ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_2_ex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong_2_ex/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/.idea/turtle_crossing_ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtle_crossing_ex/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../snake_game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +41,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Github/PycharmProjects/pythonProject/19_line_drawer"
   }
 }]]></component>
   <component name="RunManager">
