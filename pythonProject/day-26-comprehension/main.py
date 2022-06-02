@@ -1,0 +1,23 @@
+
+# variable = [new_item for item in list]
+numbers = [1, 2, 3]
+new_numbers = [n + 1 for n in numbers]
+print(new_numbers)
+
+name = "Michael"
+new_list = [letter for letter in name]
+print(new_list)
+
+
+# variable = [new_item for item in list in range]
+range_list = [num * 2 for num in range(1,5)]
+print(range_list)
+
+
+# variable = [new_item for item in list if something]
+names = ["Alex", "Beth", "Caroline", "Dave", "Eleanor", "Freddie"]
+short_names = [name for name in names if len(name) < 5]
+print(short_names)
+
+long_names_caps = [name.upper() for name in names if len(name) > 5]
+print(long_names_caps)
