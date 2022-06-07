@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d904701b-53aa-4240-8255-2ffb582ae198" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../25-csv_squirrel/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../25-csv_squirrel/.idea/25-csv_squirrel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../25-csv_squirrel/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../25-csv_squirrel/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../25-csv_squirrel/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../25-csv_squirrel/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../25-csv_squirrel/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/.idea/Working with CSV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working with CSV/weather_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day26 - Dictionary Comprehension/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/Mail Merge Project Start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/Mail Merge Project Start.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Mail Merge Project Start/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day26 - Dictionary Comprehension/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day26 - Dictionary Comprehension/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
