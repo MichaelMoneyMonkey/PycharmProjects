@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import random
 import pyperclip
+import json
 
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
@@ -50,22 +51,64 @@ def save():
     website = website_input.get()
     username = username_input.get()
     password = password_input.get()
+    new_data = {
+        website:{
+            "email": username,
+            "password": password,
+        }
+    }
 
     if website == "" or username == "" or password == "":
         messagebox.showinfo(title="Error", message="You didn't fill in all fields.")
-        is_ok = False
-    else:
-        is_ok = messagebox.askokcancel(title=website, message=f"These are the details entered:\n "
-                                                              f"Website: {website} \n "
-                                                              f""f"Username: {username} \n "
-                                                              f"Password: {password} \n "
-                                                              f"Is it ok?")
-        if is_ok:
-            with open("data.txt", "a") as data:
-                data.write(f"Website: {website} | Email/Username: {username} | Password: {password}\n")
 
+    else:
+        try:
+            with open("data.json", "r") as data_file:
+                # reading old data
+                data = json.load(data_file)
+
+        except FileNotFoundError:
+            with open("data.json", "w") as data_file:
+                json.dump(new_data, data_file, indent=4)
+
+        else:
+            # updating old data with new data
+            data.update(new_data)
+
+
+            with open("data.json", "w") as data_file:
+                # saving updated data
+                json.dump(data, data_file, indent=4)
+
+        finally:
             website_input.delete(0, END)
             password_input.delete(0, END)
+
+
+# ---------------------------- FIND USERNAME AND PASSWORD ------------------------------- #
+def search():
+    website = website_input.get()
+
+
+    if website == "":
+        messagebox.showinfo(title="Error", message="Website input was empty.")
+    else:
+        try:
+            with open("data.json", "r") as data_file:
+                data = json.load(data_file)
+        except FileNotFoundError:
+            messagebox.showinfo(title="Error", message="You currently have no saved username or passwords yet.")
+        else:
+                if website in data:
+                    email = data[website]["email"]
+                    password = data[website]["password"]
+                    messagebox.showinfo(title=f"Data for {website}", message=f"{website}\nusername: {email}  \npassword: {password}")
+                if website not in data:
+                    messagebox.showinfo(title="Error",  message="You have no data for this website")
+
+
+
+
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -84,8 +127,11 @@ website_label = Label(text="Website:")
 website_label.grid(column=0, row=1)
 website_label.config(padx=2, pady=2)
 
-website_input = Entry(width=36)
-website_input.grid(column=1, row=1, columnspan=2, sticky="EW")
+website_input = Entry(width=32)
+website_input.grid(column=1, row=1, columnspan=2, sticky="W")
+
+search_button = Button(text="Search", width=14, command=search)
+search_button.grid(column=2, row=1, sticky="EW")
 
 
 # email / username --------------------------------------------------
@@ -102,7 +148,7 @@ password_label = Label(text="Password:")
 password_label.grid(column=0, row=3)
 password_label.config(padx=2, pady=2)
 
-password_input = Entry(width=24)
+password_input = Entry(width=32)
 password_input.grid(column=1, row=3, sticky="W")
 
 generate_button = Button(text="Generate Password", width=14, command=generate_password)

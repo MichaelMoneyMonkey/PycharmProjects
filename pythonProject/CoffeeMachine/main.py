@@ -137,7 +137,7 @@ while status == "on":
 
 
 
-# TripleM123
+# MichaelTripleM123
 
     # at end if coffee is made edit resources
     if resources_ok is True and coffee_made is True:
